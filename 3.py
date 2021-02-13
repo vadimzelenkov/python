@@ -1,5 +1,0 @@
-number = input("Enter number from 1 to 9: ")
-a = int(number)
-b = int (number + number)
-c = int (number + number + number)
-print (a+b+c)
